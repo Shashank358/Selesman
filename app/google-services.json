@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "904876131724",
+    "firebase_url": "https://dealerapp-19a55.firebaseio.com",
+    "project_id": "dealerapp-19a55",
+    "storage_bucket": "dealerapp-19a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876131724:android:78f65eb9bda9f35b",
+        "android_client_info": {
+          "package_name": "com.agdevelopment.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876131724-qao3mklb9908fo02bu4ecc86gdnsd12r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agdevelopment.myapplication",
+            "certificate_hash": "d50fdd6b57982c7bd7504ebeea69a1aef1877f54"
+          }
+        },
+        {
+          "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWEctLSu1wyTtO-sYIhyxWYaLREBPW-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876131724:android:51d4a449e5650c6b",
+        "android_client_info": {
+          "package_name": "com.agdevelopment.selesman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876131724-k7eu7e88s37gooathqbjkh0fo0tvndbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agdevelopment.selesman",
+            "certificate_hash": "d50fdd6b57982c7bd7504ebeea69a1aef1877f54"
+          }
+        },
+        {
+          "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWEctLSu1wyTtO-sYIhyxWYaLREBPW-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876131724:android:b291b87d0d076b71",
+        "android_client_info": {
+          "package_name": "com.devashish.erpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876131724-9ddtihiumqj9386mraiaskn0egshhkob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devashish.erpapp",
+            "certificate_hash": "69ef0dc930ed581e779fa713594cfd557653b07f"
+          }
+        },
+        {
+          "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWEctLSu1wyTtO-sYIhyxWYaLREBPW-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876131724:android:b47eb2466117e135",
+        "android_client_info": {
+          "package_name": "com.example.dealerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876131724-lcagfbagjbljum92menctsrrd9gutlq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealerapp",
+            "certificate_hash": "d50fdd6b57982c7bd7504ebeea69a1aef1877f54"
+          }
+        },
+        {
+          "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWEctLSu1wyTtO-sYIhyxWYaLREBPW-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876131724:android:109394bdf03ae1ad",
+        "android_client_info": {
+          "package_name": "com.iiysoftwares.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876131724-dt84347q7n74jl3kbdt1tdb5d3s2jt9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiysoftwares.deliveryapp",
+            "certificate_hash": "69ef0dc930ed581e779fa713594cfd557653b07f"
+          }
+        },
+        {
+          "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWEctLSu1wyTtO-sYIhyxWYaLREBPW-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876131724-clkhaq2g4be30q1nc5rlj5pc38pnab9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
